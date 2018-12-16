@@ -2,7 +2,7 @@
  // Создание сокета, домен,тип и протокол
 $socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP);
  // Посылаем открытый запрос с заголовками
-$headers = "GET /Scraping HTTP/1.1\r\n" .
+$headers = "GET /webnet HTTP/1.1\r\n" .
 	"Host: localhost\r\n" .
 	"\r\n";
  // Проверяем соединение
