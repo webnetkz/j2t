@@ -1,0 +1,23 @@
+{
+    "short_name": "title",
+    "name": "title",
+    "icons": [
+      {
+        "src": "/public/images/miniLogoWebnet.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "icons": [
+      {
+       "src":"/public/images/logoWebnet.png",
+       "sizes": "512x512",
+       "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "rgb(0, 173, 239)",
+    "theme_color": "rgb(0, 173, 239)",
+    "display": "fullscreen",
+    "prefer_related_applications": false
+  }
