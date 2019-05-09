@@ -13,7 +13,7 @@ header {
     position: fixed;
     height: 4em;
     width: 100%;
-    background-color: rgba(155, 155, 155, 0.3);
+    background-color: rgba(155, 155, 155, 0.4);
     box-shadow: 1px 1px 10px rgb(0, 0, 0);
 }
 
