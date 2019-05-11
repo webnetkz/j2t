@@ -5,7 +5,7 @@
 
 html, body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(100, 50, 100);
 }
 
 header {
@@ -13,7 +13,7 @@ header {
     position: fixed;
     height: 4em;
     width: 100%;
-    background-color: rgba(155, 155, 155, 0.4);
+    background-color: rgba(255, 255, 255, 0.8);
     box-shadow: 1px 1px 10px rgb(0, 0, 0);
 }
 

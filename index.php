@@ -26,10 +26,6 @@
             </a>
         </header>
         
-        <div class="bgImg">
-            <img src="public/images/almatyholaLogo.png" alt="toys hola">
-        </div>
-
 
 
         <script>
