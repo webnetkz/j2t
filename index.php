@@ -21,12 +21,43 @@
     <body>
 
         <header>
-            <a href="https://almatyhola.ml">
-                <img src="public/images/almatyholaLogo.png" alt="toys hola" class="headerLogo">
-            </a>
+            <div class="headerContent">
+                <h1>Развивающие игрушки от Hola</h1>
+            </div>
         </header>
         
+        <div class="container">
+            <div class="card">
+                <div class="cardItem">
+                    <img src="public/images/bgS1.png" alt="" class="imgCard">
+                    <hr>
+                </div>
+            </div>
+            <div class="card">
+                <div class="cardItem">
+                    <img src="public/images/bgS1.png" alt="" class="imgCard">
+                    <hr>
+                </div>
+            </div>
+            <div class="card">
+                <div class="cardItem">
+                    <img src="public/images/bgS1.png" alt="" class="imgCard">
+                    <hr>
+                </div>
+            </div>
+        </div>
 
+        <div class="container">
+            <div class="card">
+                <div class="cardItem"></div>
+            </div>
+            <div class="card">
+                <div class="cardItem"></div>
+            </div>
+            <div class="card">
+                <div class="cardItem"></div>
+            </div>
+        </div>
 
         <script>
              // Проверка на поддержку service worker

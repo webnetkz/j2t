@@ -1,26 +1,88 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html, body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(100, 50, 100);
 }
 
 header {
-    display: block;
-    position: fixed;
-    height: 4em;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.8);
-    box-shadow: 1px 1px 10px rgb(0, 0, 0);
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
 }
 
-img.headerLogo {
-    position: fixed;
-    height: 3.5em;
-    margin-top: 0.25em;
-    left: 50%;
-    transform: translateX(-50%);
+header::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: url(../images/bgImage.jpg) center no-repeat;
+    background-size: cover;
+    animation: coverImg 12s infinite;
+}
+
+@keyframes coverImg {
+    50% {
+        transform: scale(1.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.headerContent {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.headerContent h1 {
+    text-transform: uppercase;
+    text-shadow: 0 0 5px black;
+}
+
+.container {
+    display: flex;
+    height: 70vh;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+}
+
+.cardItem {
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 350px;
+    transition-duration: 200ms;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.imgCard {
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+    text-align: center;
+}
+
+.cardItem hr {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 50%;
+    height: 3px;
 }
