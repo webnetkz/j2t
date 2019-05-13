@@ -19,43 +19,97 @@
     </head>
 
     <body>
-
+        <menu>
+            <p class="phone">+7 707 535 6989</p>
+        </menu>
         <header>
             <div class="headerContent">
                 <h1>Развивающие игрушки от Hola</h1>
+                <h2>Доставка до двери совершенно бесплатно!</h2>
             </div>
         </header>
         
         <div class="container">
             <div class="card">
                 <div class="cardItem">
-                    <img src="public/images/bgS1.png" alt="" class="imgCard">
-                    <hr>
+                    <img src="public/images/bysiC.png" alt="toys hola" class="imgCard">
+                        <hr>
+                    <h4>Бизи Куб</h4>
+                    <p>
+                        Многогранный куб, каждая сторона которого содержит в себе множество 
+                        развивающих элементов, также направленных на развитие у малышей логического мышления. 
+                        Данная игрушка отлично подойдет для любознательных малышей!
+                    </p>
+                    <h4>11 990 тг.</h4>
                 </div>
             </div>
             <div class="card">
                 <div class="cardItem">
-                    <img src="public/images/bgS1.png" alt="" class="imgCard">
-                    <hr>
+                    <img src="public/images/stopH.jpg" alt="toys hola" class="imgCard">
+                        <hr>
+                    <h4>Стоп-ходули</h4>
+                    <p>
+                        Отличный выбор, если Ваш малыш только учится ходить! Вместе с ходунками от 
+                        HOLA первые шаги Вашего малыша станут гораздо ярче, интереснее, а главное - быстрее! 
+                        Ходунки можно трансформировать в стол с набором развивающих элементов!
+                    </p>
+                    <h4>19 990 тг.</h4>
                 </div>
             </div>
             <div class="card">
                 <div class="cardItem">
-                    <img src="public/images/bgS1.png" alt="" class="imgCard">
-                    <hr>
+                        <img src="public/images/dumb.png" alt="toys hola" class="imgCard">
+                            <hr>
+                        <h4>Барабан от Hola</h4>
+                        <p>
+                            Барабан от HOLA - очень яркая игрушка для малышей! Яркий и красочный 
+                            барабан будет светиться разноцветными светодиодами, что сделает его максимально привлекательным 
+                            и интересным для Вашего малыша!
+                        </p>
+                        <h4>10 990 тг.</h4>
                 </div>
             </div>
         </div>
 
         <div class="container">
             <div class="card">
-                <div class="cardItem"></div>
+                <div class="cardItem">
+                    <img src="public/images/house.jpg" alt="toys hola" class="imgCard">
+                        <hr>
+                    <h4>Барабан от Hola</h4>
+                    <p>
+                        Барабан от HOLA - очень яркая игрушка для малышей! Яркий и красочный 
+                        барабан будет светиться разноцветными светодиодами, что сделает его максимально привлекательным 
+                        и интересным для Вашего малыша!
+                    </p>
+                    <h4>10 990 тг.</h4>
+                </div>
             </div>
             <div class="card">
-                <div class="cardItem"></div>
+                <div class="cardItem">
+                    <img src="public/images/cube.jpg" alt="toys hola" class="imgCard">
+                        <hr>
+                    <h4>Барабан от Hola</h4>
+                    <p>
+                        Барабан от HOLA - очень яркая игрушка для малышей! Яркий и красочный 
+                        барабан будет светиться разноцветными светодиодами, что сделает его максимально привлекательным 
+                        и интересным для Вашего малыша!
+                    </p>
+                    <h4>10 990 тг.</h4>
+                </div>
             </div>
             <div class="card">
-                <div class="cardItem"></div>
+                <div class="cardItem">
+                    <img src="public/images/fency.jpg" alt="toys hola" class="imgCard">
+                        <hr>
+                    <h4>Барабан от Hola</h4>
+                    <p>
+                        Барабан от HOLA - очень яркая игрушка для малышей! Яркий и красочный 
+                        барабан будет светиться разноцветными светодиодами, что сделает его максимально привлекательным 
+                        и интересным для Вашего малыша!
+                    </p>
+                    <h4>10 990 тг.</h4>
+                </div>
             </div>
         </div>
 

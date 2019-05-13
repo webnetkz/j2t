@@ -8,6 +8,23 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+menu {
+    position: fixed;
+    height: 2em;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 2;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+p.phone {
+    line-height: 2em;
+    float: right;
+    margin-right: 2em;
+    font-weight: 700;
+}
+
 header {
     height: 100vh;
     position: relative;
@@ -48,7 +65,12 @@ header::after {
 
 .headerContent h1 {
     text-transform: uppercase;
-    text-shadow: 0 0 5px black;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+}
+
+.headerContent h2 {
+    text-transform: uppercase;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
 }
 
 .container {
@@ -71,18 +93,29 @@ header::after {
     transition-duration: 200ms;
     box-shadow: 0 0 10px rgb(0, 0, 0);
     border-radius: 10px;
+    text-align: center;
+    pointer-events: none;
+    padding: 10px;
+}
+
+.cardItem h4 {
+    margin-top: 10px;
+}
+
+.cardItem p {
+    margin: 20px;
 }
 
 .imgCard {
     display: block;
     margin: 0 auto;
-    height: 50%;
+    height: 45%;
     text-align: center;
 }
 
 .cardItem hr {
+    position: absolute;
     width: 90%;
     margin-left: 5%;
     border-radius: 50%;
-    height: 3px;
 }
