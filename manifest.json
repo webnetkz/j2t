@@ -1,23 +1,23 @@
 {
-    "short_name": "title",
-    "name": "title",
+    "short_name": "AlmatyHola",
+    "name": "AlmatyHola",
     "icons": [
       {
-        "src": "/public/images/miniLogoWebnet.png",
+        "src": "/public/images/almatyholaLogo.png",
         "sizes": "192x192",
         "type": "image/png"
       }
     ],
     "icons": [
       {
-       "src":"/public/images/logoWebnet.png",
+       "src":"/public/images/almatyholaLogo.png",
        "sizes": "512x512",
        "type": "image/png"
       }
     ],
     "start_url": "/",
-    "background_color": "rgb(0, 173, 239)",
-    "theme_color": "rgb(0, 173, 239)",
+    "background_color": "rgb(255, 255, 255)",
+    "theme_color": "rgb(255, 255, 255)",
     "display": "fullscreen",
     "prefer_related_applications": false
   }
