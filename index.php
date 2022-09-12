@@ -76,7 +76,7 @@ lime.com</h1>
               <li>24 hour service
 support</li>
             </ul></p>
-						<a class="primary_btn" href="#">Learn More</a>
+						<a class="primary_btn" href="https://j2t.com/ref/MWgs2ew4sO-mt5global">Learn More</a>
 					</div>
 				</div>
 				<div class="col-lg-6">
@@ -112,7 +112,7 @@ support</li>
 					<div class="new_games_item">
 						<img src="https://just2trade.kz/themes/finam/images/assets/russia.jpg" alt="">
 						<div class="upcoming_title">
-							<h3><a href="#">Stock</a></h3>
+							<h3><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global">Stock</a></h3>
 						</div>
 					</div>
 				</div>
@@ -120,7 +120,7 @@ support</li>
 					<div class="new_games_item">
 						<img src="https://ifccd.net/uploads/image/investment-portfolio.png" alt="">
 						<div class="upcoming_title">
-							<h3><a href="#">Futures</a></h3>
+							<h3><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global">Futures</a></h3>
 						</div>
 					</div>
 				</div>
@@ -128,7 +128,7 @@ support</li>
 					<div class="new_games_item">
 						<img src="https://forklog.com/wp-content/uploads/analytics.png" alt="">
 						<div class="upcoming_title">
-							<h3><a href="#">Options</a></h3>
+							<h3><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global">Options</a></h3>
 						</div>
 					</div>
 				</div>
@@ -152,11 +152,11 @@ support</li>
 					<h4>OPEN ACCOUNT AND TRADE
 ON ANY DEVICE</h4>
 					<ul class="list">
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
 					</ul>
 					<div class="wow fadeIn" data-wow-duration="1s">
 						<p>
@@ -169,11 +169,11 @@ ON ANY DEVICE</h4>
 					<h4>OPEN ACCOUNT AND TRADE
 ON ANY DEVICE</h4>
 					<ul class="list">
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
 					</ul>
 					<div class="wow fadeIn" data-wow-duration="1s">
 						<p>
@@ -186,11 +186,11 @@ ON ANY DEVICE</h4>
 					<h4>OPEN ACCOUNT AND TRADE
 ON ANY DEVICE</h4>
 					<ul class="list">
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
-						<li><a href="#"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
+						<li><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"><i class="fa fa-star"></i></a></li>
 					</ul>
 					<div class="wow fadeIn" data-wow-duration="1s">
 						<p>
