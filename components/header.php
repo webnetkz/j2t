@@ -17,7 +17,7 @@
 							<li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li class="nav-item"><a href="#" class="primary_btn">join us</a></li>
+							<li class="nav-item"><a href="https://j2t.com/ref/MWgs2ew4sO-mt5global"class="primary_btn">join us</a></li>
 						</ul>
 					</div>
 				</div>
