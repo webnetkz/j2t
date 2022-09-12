@@ -1,0 +1,281 @@
+.sta-screen {
+	text-align: center;
+	color: #fff;
+}
+
+.sta-screen__text {
+	line-height: 1.5;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.sta-screen__header {
+	text-transform: uppercase;
+}
+
+.sta-screen__header h1 {
+  margin-bottom: 15px;
+  line-height: 1.25;
+  font-size: 28px;
+  font-weight: 400;
+}
+
+@media (min-width: 576px) {
+  .sta-screen__header h1 {
+    font-size: 42px;
+  }
+}
+
+@media (min-width: 768px) {
+  .sta-screen__header h1 {
+    font-size: 52px;
+  }
+}
+
+b {
+	font-weight: bold;
+}
+
+.sta-screen__text h2 {
+	font-size: 32px;
+}
+
+.array {
+	max-width: 250px;
+	line-height: 1.25;
+}
+
+.array__wrap {
+    height: 4.35714rem;
+    margin-bottom: .71429rem;
+}
+
+.array__img {
+	max-height: 4.28571rem;
+}
+
+.array__title {
+	margin-bottom: 15px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.array__text {
+	line-height: 1.5;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.text {
+	line-height: 24px;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.text p, .text ul {
+	margin-bottom: 20px;
+}
+
+.text ul li {
+	margin-bottom: 5px;
+}
+
+.text ul li:last-child {
+	margin-bottom: 0;
+}
+
+.text ul li:before {
+	content: '-';
+	margin-right: 10px;
+}
+
+.text p:last-child, .text ul:last-child {
+	margin-bottom: 0;
+}
+
+.tabs_ipo {
+	display: flex;
+}
+
+.tabs_ipo .tabs-title {
+	margin-right: .28571rem;
+	padding: .5rem 1.14286rem;
+	background-color: #8e8e8e;
+	font-size: 14px;
+    font-weight: 300;
+	color: #fff;
+	cursor: pointer;
+}
+
+.tabs_ipo .tabs-title.is-active {
+	background-color: #0886cf;
+}
+
+.tabs-content_ipo {
+	display: none;
+}
+
+.tabs-content_ipo.visible {
+	display: block;
+}
+
+.event {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+	line-height: 1.5;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #000;
+    padding-bottom: 1.35714rem;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    position: relative;
+    padding-right: 3.78571rem;
+    border-top: .07143rem solid #c2c2c2;
+	cursor: pointer;
+}
+
+.event__wrap {
+    padding-top: 1.28571rem;
+    padding-left: 1.78571rem;
+    width: 22%;
+}
+
+.event__img {
+	max-width: 150px;
+    max-height: 85px;
+	width: auto;
+	height: auto;
+}
+
+.event__code {
+    padding-left: .71429rem;
+    padding-right: .71429rem;
+    padding-top: 1.57143rem;
+    width: 14%;
+	font-weight: bold;
+}
+
+.event__title {
+    width: 35%;
+    padding-top: 1.57143rem;
+}
+
+.event__name {
+    font-weight: 700;
+    color: #0886cf;
+}
+
+.event__ipo {
+    font-weight: 700;
+    color: #fcfcfc;
+}
+
+.event__date {
+    width: 15%;
+    padding-left: .71429rem;
+    padding-right: .71429rem;
+    padding-top: 1.57143rem;
+}
+
+.event__price {
+    padding-top: 1.57143rem;
+    width: 14%;
+}
+
+.event__arr {
+    cursor: pointer;
+    position: absolute;
+    padding: .35714rem;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    color: #c2c2c2;
+    right: 1.78571rem;
+    top: 1.42857rem;
+    font-size: 1.14286rem;
+}
+
+.event-visible .event__arr {
+	-webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.event__info {
+    display: none;
+    padding-top: 1.28571rem;
+}
+
+.event-visible .event__info {
+	display: block;
+}
+
+@media(max-width: 767.98px) {
+	.event__wrap {
+		padding-top: .5rem;
+		padding-left: 0;
+		width: 30%;
+	}
+	
+	.event__img {
+		width: 100%;
+	}
+	
+	.event__code {
+		width: auto;
+		padding-top: .5rem;
+		padding-left: 0;
+		order: 1;
+	}
+	
+	.event__title {
+		width: 60%;
+		margin-left: 1rem;
+		padding-top: .5rem;
+	}
+	
+	.event__arr {
+		top: 0;
+		right: 0;
+	}
+	
+	.event__date {
+		width: auto;
+		padding-top: .5rem;
+		order: 2;
+	}
+	
+	.event__price {
+		padding-top: .5rem;
+		width: auto;
+		order: 3;
+	}
+	
+	.event__info {
+		order: 4;
+	}
+	
+	.sta-screen__text h2 {
+		font-size: 28px;
+	}
+}
+
+@media(max-width: 575.98px) {
+	.sta-screen__text h2 {
+		font-size: 20px;
+	}
+	
+	.array {
+		text-align: center;
+	}
+	
+	.tabs_ipo {
+		justify-content: center;
+	}
+	
+	.event {
+		font-size: 14px;
+	}
+}
