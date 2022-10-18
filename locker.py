@@ -8,8 +8,17 @@ import os
 import sys
 from plyer import notification
 
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+
 def checkKeyboard(x):
     if x.event_type == 'down' and x.name == 'right ctrl':
+      time.sleep(0.1)
       os.execv(sys.executable, [sys.executable] + sys.argv)
     else:
       print("Блокирование по нажатию клавишы", datetime.now())
