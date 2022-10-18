@@ -37,7 +37,6 @@ def checkMouse():
 
 if __name__ == '__main__':
   keyboard.wait("ctrl+left")
-  exec("screenLocker.py")  
 
   notification.notify(
     app_name='locker',
